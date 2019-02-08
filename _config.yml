@@ -1,11 +1,11 @@
 # Site settings
 author: Sherief Farid
-title: 
+title: A journey that started with a single keystroke!
 header-img: img/home-bg.png
 email: sherief@farid.cloud
 copyright_name: Sherief Farid
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The challenges and successes of learning Full stack web development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sheriefCloud
